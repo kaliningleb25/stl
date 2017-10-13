@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kaliningleb/Desktop/PP/lab3_1/QueueWithPriority.h
+string
+-
+list
+-
+vector
+-
+
+/Users/kaliningleb/Desktop/PP/lab3_1/main.cpp
+iostream
+-
+iostream
+-
+vector
+-
+list
+-
+QueueWithPriority.h
+/Users/kaliningleb/Desktop/PP/lab3_1/QueueWithPriority.h
+

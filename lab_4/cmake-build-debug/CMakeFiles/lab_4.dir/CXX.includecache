@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kaliningleb/Desktop/PP/lab_4/Factorial.cpp
+iostream
+-
+Factorial.h
+/Users/kaliningleb/Desktop/PP/lab_4/Factorial.h
+
+/Users/kaliningleb/Desktop/PP/lab_4/Factorial.h
+vector
+-
+
+/Users/kaliningleb/Desktop/PP/lab_4/main.cpp
+iostream
+-
+Factorial.h
+/Users/kaliningleb/Desktop/PP/lab_4/Factorial.h
+
